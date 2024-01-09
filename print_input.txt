@@ -1,0 +1,8 @@
+
+print ID
+
+print cost
+
+print date
+
+print                   keyword
